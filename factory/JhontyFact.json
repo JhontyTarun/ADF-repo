@@ -1,0 +1,9 @@
+{
+	"name": "JhontyFact",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82ba7bb0-8ffe-4074-a59b-59f641802048",
+		"tenantId": "3e4f21d9-990b-447d-aaac-a3f9d4cceb86"
+	}
+}
